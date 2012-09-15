@@ -2,6 +2,7 @@
 
  * book a flight
  * BUY A CAMERA
+ * [Learn How to Play Craps](http://www.youtube.com/watch?v=i_IVEvX__3s)
 
 ## Plans
 
